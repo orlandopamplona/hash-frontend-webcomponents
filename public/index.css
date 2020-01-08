@@ -1,0 +1,23 @@
+.divPrincipalSimulator {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    vertical-align: middle;
+    align-items: center;
+    background: #F5F7FA;
+}
+
+.hashSimulator {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    width: 100%;
+    height: 389px;
+    max-width: 608px;
+    margin-top: 156px;
+    margin-bottom: 155px;
+    background: #FFFFFF;
+    border: 1px solid #D1DCE3;
+    box-sizing: border-box;
+    border-radius: 4px;
+}

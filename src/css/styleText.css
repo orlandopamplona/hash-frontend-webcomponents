@@ -1,0 +1,83 @@
+.title {
+  position: relative;
+  height: 30px;
+  font-family: Source Sans Pro;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 30px;
+  color: #656565;
+}
+
+.saleValue {
+  position: absolute;
+  height: 18px;
+  font-family: Source Sans Pro;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 18px;
+  color: #656565;
+}
+
+.numberInstallments {
+  position: absolute;
+  height: 18px;
+  font-family: Source Sans Pro;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 18px;
+  color: #656565;
+}
+
+.maxInstallments {
+  position: relative;
+  font-family: Source Sans Pro;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 11px;
+  line-height: 14px;
+  color: #CECECE;
+}
+
+.mdrPercentage {
+  position: absolute;
+  height: 18px;
+  font-family: Source Sans Pro;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 18px;
+  color: #656565; 
+}
+
+.youReceive {
+  position: relative;
+  height: 20px;
+  font-family: Source Sans Pro;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+  text-transform: uppercase;
+  color: #3D75BB;
+}
+
+.days {
+  position: relative;
+  font-family: Source Sans Pro;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 16px;
+  color: #5D9CEC;
+}
+
+.daysValue {
+  position: relative;
+  font-family: Source Sans Pro;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 16px;
+  color: #5D9CEC;
+}

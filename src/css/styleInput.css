@@ -1,0 +1,65 @@
+.saleValueInput {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: left;
+  width: 100%;
+  max-width: 251px;
+  height: 37px;
+  background: #FFFFFF;
+  border: 1px solid #DDE6E9;
+  box-sizing: border-box;
+  border-radius: 4px;
+  font-family: Source Sans Pro;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 18px;
+  padding-left: 14px;
+  padding-right: 14px;
+}
+
+.numberInstallmentsInput {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: left;
+  width: 100%;
+  max-width: 251px;
+  height: 37px;
+  background: #FFFFFF;
+  border: 1px solid #DDE6E9;
+  box-sizing: border-box;
+  border-radius: 4px;
+  font-family: Source Sans Pro;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 18px;
+  padding-left: 14px;
+  padding-right: 14px;
+}
+
+.mdrPercentageInput {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: left;
+  width: 100%;
+  max-width: 251px;
+  height: 37px;
+  background: #FFFFFF;
+  border: 1px solid #DDE6E9;
+  box-sizing: border-box;
+  border-radius: 4px;
+  font-family: Source Sans Pro;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 18px;
+  padding-left: 14px;
+  padding-right: 14px;
+}
