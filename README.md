@@ -84,7 +84,7 @@ The following dependencies were used:
     "css-loader": "1.0.1",
     "express": "^4.17.1",
     "file-loader": "2.0.0",
-    "hash-anticipation-calc-library": "0.0.12",
+    "hash-anticipation-calc-library": "0.0.1",
     "image-webpack-loader": "4.5.0",
     "to-string-loader": "1.1.5",
     "webcomponents": "0.1.4",
@@ -93,14 +93,13 @@ The following dependencies were used:
     "webpack-cli": "3.1.0",
     "webpack-merge": "^4.2.2"
 
-    hash-anticipation-calc-library
-
-    Note: The dependency hash-anticipation-calc-library was specifically developed for calculations and can be seen in the following [`repository`](https://github.com/orlandopamplona/hash-anticipation-calc-library).
-
+    
 All of which are automatically installed with the command:
 ```shell
 npm install
 ```
+
+Note: The dependency hash-anticipation-calc-library was specifically developed for calculations and can be seen in the following [`repository`](https://github.com/orlandopamplona/hash-anticipation-calc-library).
 
 ### Prerequisites
 What is needed to set up the dev environment.
@@ -116,7 +115,7 @@ Here's a brief intro about what a developer must do in order to start developing
 the project further:
 
 ```shell
-git clone https://github.com/orlandopamplona/olist-frontend-webcomponents.git
+git clone https://github.com/orlandopamplona/hash-frontend-webcomponents
 cd hash-frontend-webcomponents
 npm install
 npm run dev
